@@ -1,0 +1,4 @@
+CardNumber:1234567890123456
+NameOnCard:IvanIvic
+ExpiryDate:05/28
+SecurityCode:321

@@ -1,0 +1,4 @@
+Pozdrav,
+ovo je tekst za demonstraciju digitalnog potpisa!
+LP
+Emanuel Radotovic
